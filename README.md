@@ -4,3 +4,5 @@ Participantes:
 Loizi Giacomello
 Felipe Alberganti
 Arthur Nascimento
+
+![Alt ou título da imagem](https://i.imgur.com/PLOAm4G.jpg)
